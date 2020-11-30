@@ -1,0 +1,10 @@
+.complete{
+    text-decoration: line-through;
+}
+
+p , label {
+    font-size: 21px !important;
+}
+li{
+    font-size: 20px !important;
+}
